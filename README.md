@@ -10,12 +10,12 @@ https://user-images.githubusercontent.com/66529470/236931718-64b92f8d-61bd-454b-
 In this video, we activate a specific neuron using light (invisible to this IR camera), which causes the proboscis to extend.
 To analyze this, we trained a deep convolutional network to mark positions of the proboscis. (Model training)
 We labelled videos for each set of neurons we activated (Video analysis)
-
-
-https://user-images.githubusercontent.com/66529470/236931745-bc27b1ce-5c78-41a9-8923-63b2362b010a.mp4
-
-
 then analyzed this marked positions for each set of neurons (Tracking analysis).
+
+
+https://user-images.githubusercontent.com/66529470/236932069-92ef6dfa-5634-4e13-9fa9-3afcd7897b66.mp4
+
+
 We found that neurons near sensory input causes repeated proboscis extension and retraction,
 while neurons closer to motor output cause extended proboscis extension. 
 
