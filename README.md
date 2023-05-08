@@ -7,7 +7,7 @@ We labelled videos for each set of neurons we activated (Video analysis),
 then analyzed this marked positions for each set of neurons (Tracking analysis).
 ![Labelled video](https://github.com/philshiu/fly-appendage-tracking/blob/main/Readme%20Videos/87_labelled.gif?raw=true)
 
-In this video, we activate a specific neuron using light (invisible to this IR camera), which causes the proboscis to extend. We tracked specific portions of the head and the eye, and measured aspects of the proboscis extension, such as extension distance, duration and extension angle.
+In this video, we activated a specific neuron using light (invisible to our IR camera), which causes the proboscis to extend. We tracked specific portions of the head and the eye, and measured aspects of the proboscis extension, such as extension distance, duration and extension angle.
 We found that neurons near sensory input causes repeated proboscis extension and retraction,
 while neurons closer to motor output cause extended proboscis extension. 
 
