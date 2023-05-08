@@ -2,7 +2,7 @@
 How does a brain control appendages? In this project, we activate single neurons in the 
 fly brain and measure how that affects the position of the proboscis, the appendage the 
 fly uses to consume food. Many neurons, when activated, affect the position of the proboscis.
-![Neuron activation]([https://github.com/philshiu/Neurotransmitter-classification/blob/main/Readme%20Images/ssTEM%20vs%20FIBSEM.png?raw=true](https://github.com/philshiu/fly-appendage-tracking/blob/main/Readme%20Videos/87_5.mp4)
+![Neuron activation](https://github.com/philshiu/fly-appendage-tracking/blob/main/Readme%20Videos/87_5.mp4)
 To analyze this, we trained a deep convolutional network to mark positions of the proboscis. (Model training)
 We labelled videos for each set of neurons we activated (Video analysis),
 then analyzed this marked positions for each set of neurons (Tracking analysis).
